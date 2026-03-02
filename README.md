@@ -6,8 +6,8 @@ This project presents an IoT-based **Smart Water Usage Monitoring System** desig
 The system uses an **Arduino-based automation framework** with real-time sensor monitoring to maintain optimal water conditions. It minimizes human intervention while promoting sustainability and responsible resource usage.
 
 ---
-![Smart Water Usage Monitoring System](<img width="737" height="576" alt="image" src="https://github.com/user-attachments/assets/e8bbac95-2912-4040-85ad-6c00d7d10cff" />
-)
+<img width="737" height="576" alt="image" src="https://github.com/user-attachments/assets/e77da7d4-4984-4970-b962-9df7556a46a0" />
+
 
 ## 🚀 Key Features
 
